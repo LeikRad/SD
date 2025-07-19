@@ -1,0 +1,5 @@
+Java Tutorial - https://docs.oracle.com/javase/tutorial/
+
+Java SDK - https://www.oracle.com/java/technologies/downloads/?er=221886
+
+The Software Development Kit Manager - https://sdkman.io/
